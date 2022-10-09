@@ -1,2 +1,2 @@
 # ProvaPOO
-Repositório com as questões da prova da matéria de POO
+Repositório com as questões da AB1 da matéria de POO
